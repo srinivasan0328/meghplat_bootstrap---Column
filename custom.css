@@ -610,7 +610,7 @@ option {
 }
 
 .navSection .topBody .column:nth-child(1)::after{
-  content: "topblock";
+  content: "topBlock";
   margin-left: 8rem;
 }
 
@@ -681,5 +681,5 @@ option {
 }
 
 .copyRightsBody .column::after{
-  content: "copyrightsBlock";
+  content: "copyRightsBlock";
 }
