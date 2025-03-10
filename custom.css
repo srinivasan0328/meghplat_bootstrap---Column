@@ -624,7 +624,7 @@ option {
 }
 
 .navSection .navBody .column:nth-child(2)::after{
-  content: "navlinkBlock";
+  content: "navLinkBlock";
   margin-left: 6.2rem;
 }
 
