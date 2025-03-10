@@ -681,5 +681,5 @@ option {
 }
 
 .copyRightsBody .column::after{
-  content: "copyrightsNlock";
+  content: "copyrightsBlock";
 }
