@@ -611,7 +611,7 @@ option {
 
 .navSection .topBody .column:nth-child(1)::after{
   content: "topblock";
-  margin-left: 9rem;
+  margin-left: 8rem;
 }
 
 .navSection .topBody .column:nth-child(2)::after{
@@ -625,7 +625,7 @@ option {
 
 .navSection .navBody .column:nth-child(2)::after{
   content: "navlinkBlock";
-  margin-left: 6rem;
+  margin-left: 6.2rem;
 }
 
 .heroSection .column:nth-child(1)::after{
