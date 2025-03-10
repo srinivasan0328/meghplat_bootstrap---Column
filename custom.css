@@ -620,7 +620,7 @@ option {
 
 .navSection .navBody .column:nth-child(1)::after{
   content: "logoBlock";
-  margin-left: 14rem;
+  margin-left: 10rem;
 }
 
 .navSection .navBody .column:nth-child(2)::after{
@@ -640,28 +640,16 @@ option {
   content: "aboutImageBlock";
 }
 
-.whyChooseSection .column:nth-child(1)::after{
+.whyChooseSection .column::after{
   content: "headingBlock";
 }
 
-.whyChooseBody .column:nth-child(1)::after{
+.whyChooseBlock.column::after{
   content: "whyChooseBlock";
 }
 
-.whyChooseBody .column:nth-child(2)::after{
-  content: "whyChooseBlock";
-}
-
-.whyChooseBody .column:nth-child(3)::after{
+.whyChooseImageBlock.column::after{
   content: "whyChooseImageBlock";
-}
-
-.whyChooseBody .column:nth-child(4)::after{
-  content: "whyChooseBlock";
-}
-
-.whyChooseBody .column:nth-child(5)::after{
-  content: "whyChooseBlock";
 }
 
 .serviceSection .column:nth-child(1)::after{
